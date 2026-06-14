@@ -1,0 +1,6 @@
+# GitHub Pages Configuration
+# Este archivo activa GitHub Pages automáticamente
+site:
+  title: FINCA COLOM-VIANA
+  description: Chocolate artesanal de origen colombiano
+  url: https://romerocirojuansebastian-ai.github.io/finca-colom-viana
